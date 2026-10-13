@@ -10,9 +10,8 @@ license = "GPL-3.0"
 description = "Simple PhD thesis template for the University of Glasgow."
 
 repository = "https://github.com/surobaki/thesis-simple-uofg-typst"
-keywords = []
-categories = []
-disciplines = []
+keywords = ["thesis", "uofg", "university-of-glasgow", "english"]
+categories = ["thesis"]
 compiler = "0.15.1"
 exclude = ["*.pdf"]
 

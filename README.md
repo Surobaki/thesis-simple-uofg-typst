@@ -1,5 +1,7 @@
 # University of Glasgow PhD Thesis Template for Typst
 
+This code repository is not affiliated with the University of Glasgow in any capacity.
+
 This Typst template is designed based on `uofg_guidelines-2026-10-12.pdf`. In terms of the proposed content outline from the guidelines:
 
 1. title page
@@ -72,6 +74,6 @@ This document has zero referencing work set up. The University of Glasgow guidel
 
 # Legal disclaimer
 
-All repository source code is licensed under GNU GPLv3, as seen in `LICENSE`.
+All template code files (`lib.typ`) are licensed under GNU GPLv3, as seen in `LICENSE`. The template code file `main.typ` is exempt from GNU GPLv3, and all copyright possession is waived, putting the file into public domain.
 
-All University of Glasgow material, including the University of Glasgow PhD thesis writing guidelines, and University of Glasgow's blue badge (`uofg-blue-badge.svg`) are copyright of the University of Glasgow.
+All University of Glasgow material, including the University of Glasgow PhD thesis writing guidelines PDF, and University of Glasgow's blue badge (`uofg-blue-badge.svg`) are subject to the copyright of the University of Glasgow, and exempt from both GNU GPLv3 and CC-BY-NC.
